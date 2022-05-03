@@ -5,7 +5,7 @@
 
 void connect(){
 	Camera cam;
-	cam.setLoginDetails("10.243.29.34", 8000, "admin", "test123+$");
+	cam.setLoginDetails("10.243.29.34", 8000, "admin", "test123");
 	cam.login();
 	
 	cam.WriteAVIvideo();
