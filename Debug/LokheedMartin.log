@@ -1,0 +1,15 @@
+﻿Build started 09/11/2015 18:31:44.
+     1>Project "C:\Users\Gulraiz\Documents\Visual Studio 2012\Projects\LokheedMartin\LokheedMartin\LokheedMartin.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IE:\opencv\ClientSDK\incEn /IE:\opencv\ClientSDK\lib\HCNetSDKCom /IE:\opencv\ClientSDK\lib /IE:\opencv\build\include /IE:\opencv\build\include\opencv2 /IE:\opencv\build\include\opencv /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt HOG.cpp
+         HOG.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gulraiz\Documents\Visual Studio 2012\Projects\LokheedMartin\Debug\LokheedMartin.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\opencv\ClientSDK\incEn /LIBPATH:E:\opencv\build\x86\vc11\lib /LIBPATH:E:\opencv\ClientSDK\lib /LIBPATH:E:\opencv\ClientSDK\lib\HCNetSDKCom opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib HCNetSDK.lib HCCore.lib HCPreview.lib PlayCtrl.lib HCGeneralCfgMgr.lib HCAlarm.lib opencv_gpu2410.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gulraiz\Documents\Visual Studio 2012\Projects\LokheedMartin\Debug\LokheedMartin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gulraiz\Documents\Visual Studio 2012\Projects\LokheedMartin\Debug\LokheedMartin.lib" /MACHINE:X86 Debug\Camera.obj
+         Debug\HOG.obj
+         Debug\Main.obj
+         LokheedMartin.vcxproj -> C:\Users\Gulraiz\Documents\Visual Studio 2012\Projects\LokheedMartin\Debug\LokheedMartin.exe
+     1>Done Building Project "C:\Users\Gulraiz\Documents\Visual Studio 2012\Projects\LokheedMartin\LokheedMartin\LokheedMartin.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.78

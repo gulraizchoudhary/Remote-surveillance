@@ -1,0 +1,11 @@
+﻿Build started 17/10/2015 02:33:05.
+     1>Project "C:\Users\Gulraiz\documents\visual studio 2012\Projects\LokheedMartin\LokheedMartin\LokheedMartin.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IE:\opencv\ClientSDK\lib /IE:\opencv\build\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>Test.cpp(11): fatal error C1083: Cannot open include file: 'HCNetSDK.h': No such file or directory
+     1>Done Building Project "C:\Users\Gulraiz\documents\visual studio 2012\Projects\LokheedMartin\LokheedMartin\LokheedMartin.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.92
